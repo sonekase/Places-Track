@@ -1,0 +1,12 @@
+.output-area {
+  display: none;
+}
+
+.vacations {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.vacations:hover {
+  text-decoration: underline;
+}
